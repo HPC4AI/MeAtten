@@ -36,3 +36,7 @@ We apply MEATTEN to three representative ARM multi-cores against state-of-the-ar
   publisher = {ACM},
 }
 ```
+
+# Acknowledge
+[FlashAttention 1](https://arxiv.org/abs/2205.14135)<br>
+[FlashAttention 2](https://arxiv.org/abs/2307.08691)
