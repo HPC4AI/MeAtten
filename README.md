@@ -19,9 +19,16 @@ make bench_meformer_sdpa.x
 
 You may need to modify the installation paths of the third-party libraries in the Makefile.
 
+# Platforms
+![image](https://github.com/user-attachments/assets/543577f3-2e82-4836-bce9-c2d876777985)
+
+
 # Performance
 
 We apply MEATTEN to three representative ARM multi-cores against state-of-the-art libraries and compilers. Experimental results demonstrate that our approach consistently outperforms prior approaches across various evaluation scenarios and platforms.
+
+![image](https://github.com/user-attachments/assets/d722c4ca-ecb7-4872-a948-f51eee2eaa94)
+
 
 # Citation
 ```
@@ -38,5 +45,6 @@ We apply MEATTEN to three representative ARM multi-cores against state-of-the-ar
 ```
 
 # Acknowledge
+[LibShalom](https://github.com/AnonymousYWL/LibShalom/blob/main/README.md)
 [FlashAttention 1](https://arxiv.org/abs/2205.14135)<br>
 [FlashAttention 2](https://arxiv.org/abs/2307.08691)
